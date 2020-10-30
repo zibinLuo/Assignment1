@@ -1,0 +1,129 @@
+CRITICAL - 2020-10-27 02:08:08 --> Class 'App\Models\Places' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('1')
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-27 02:08:12 --> Class 'App\Models\Places' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('1')
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-27 02:08:12 --> Class 'App\Models\Places' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('1')
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-27 02:08:12 --> Class 'App\Models\Places' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('1')
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-27 02:25:50 --> Argument 1 passed to CodeIgniter\View\Parser::setData() must be of the type array, null given, called in C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php on line 28
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(28): CodeIgniter\View\Parser->setData(NULL)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('%7Bid%7D')
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-27 02:26:05 --> Argument 1 passed to CodeIgniter\View\Parser::setData() must be of the type array, null given, called in C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php on line 28
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(28): CodeIgniter\View\Parser->setData(NULL)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('%7Bid%7D')
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-27 02:26:32 --> Argument 1 passed to CodeIgniter\View\Parser::setData() must be of the type array, null given, called in C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php on line 28
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(28): CodeIgniter\View\Parser->setData(NULL)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('%7Bid%7D')
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-27 02:26:44 --> Argument 1 passed to CodeIgniter\View\Parser::setData() must be of the type array, null given, called in C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php on line 28
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(28): CodeIgniter\View\Parser->setData(NULL)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('%7Bid%7D')
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-27 02:27:21 --> Argument 1 passed to CodeIgniter\View\Parser::setData() must be of the type array, null given, called in C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php on line 28
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(28): CodeIgniter\View\Parser->setData(NULL)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('%7Bid%7D')
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-27 02:32:21 --> Argument 1 passed to CodeIgniter\View\Parser::setData() must be of the type array, null given, called in C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php on line 28
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(28): CodeIgniter\View\Parser->setData(NULL)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('%7Bid%7D')
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-27 02:32:22 --> Argument 1 passed to CodeIgniter\View\Parser::setData() must be of the type array, null given, called in C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php on line 28
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(28): CodeIgniter\View\Parser->setData(NULL)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('%7Bid%7D')
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-27 02:44:07 --> Argument 1 passed to CodeIgniter\View\Parser::setData() must be of the type array, null given, called in C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php on line 28
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(28): CodeIgniter\View\Parser->setData(NULL)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('%7Bid%7D')
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-27 02:44:24 --> Argument 1 passed to CodeIgniter\View\Parser::setData() must be of the type array, null given, called in C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php on line 28
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(28): CodeIgniter\View\Parser->setData(NULL)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('%7Bid%7D')
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-27 02:44:40 --> Argument 1 passed to CodeIgniter\View\Parser::setData() must be of the type array, null given, called in C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php on line 28
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(28): CodeIgniter\View\Parser->setData(NULL)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('%7Bid%7D')
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-27 02:45:08 --> Argument 1 passed to CodeIgniter\View\Parser::setData() must be of the type array, null given, called in C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php on line 28
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(28): CodeIgniter\View\Parser->setData(NULL)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('%7Bid%7D')
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-27 02:45:10 --> Argument 1 passed to CodeIgniter\View\Parser::setData() must be of the type array, null given, called in C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php on line 28
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(28): CodeIgniter\View\Parser->setData(NULL)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('%7Bid%7D')
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-27 02:53:48 --> Use of undefined constant Argentina - assumed 'Argentina' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 8, Array)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-27 02:53:50 --> Use of undefined constant Argentina - assumed 'Argentina' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 8, Array)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-27 02:53:51 --> Use of undefined constant Argentina - assumed 'Argentina' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 8, Array)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
